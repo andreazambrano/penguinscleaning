@@ -71,7 +71,7 @@
 body {
   font-size:18px;
   color:#646578;
-  line-height:26px;
+  line-height:30px;
   font-weight:400;
   background:#ffffff;
   font-family: 'Lato', sans-serif;
@@ -164,6 +164,8 @@ p{
   font-weight: 400;
   margin: 0px;
   transition: all 500ms ease;
+  line-height: 30px;
+    font-size: larger;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -1452,7 +1454,7 @@ img {
   height: 100%;
   max-height: 100%;
   overflow-y: auto;
-  background: #262626;
+  background: #03A9F4;
   padding: 0px 0px;
   z-index: 5;
   opacity: 0;
@@ -2947,7 +2949,7 @@ div#mCSB_1_container{
 
 .project-section{
   position: relative;
-  padding: 113px 0px 119px 0px;
+  padding: 0px 0px 119px 0px;
 }
 
 .project-section .owl-carousel{
@@ -4512,7 +4514,7 @@ div#mCSB_1_container{
 
 .feature-section{
   position: relative;
-  padding: 120px 0px 120px 0px;
+  padding: 60px 0px 60px 0px;
 }
 
 .feature-block-one .inner-box{
@@ -5234,7 +5236,7 @@ div#mCSB_1_container{
 }
 
 .content_block_10 .content-box .tabs-inner .btn-box .theme-btn-three{
-  background: #f3f3f3;
+  background: #2e8cd3a6;
   padding: 16px 50px;
 }
 
@@ -6495,7 +6497,7 @@ div#mCSB_1_container{
 .feature-style-two .single-column .review-box{
   position: relative;
   display: block;
-  padding: 70px 47px 53px 40px;
+  padding: 139px 46px 90px 27px;
 }
 
 .feature-style-two .single-column .review-box .icon-box{
@@ -8059,7 +8061,7 @@ div#mCSB_1_container{
 .chooseus-section .tabs-box .tab-buttons li h5{
   display: block;
   font-size: 18px;
-  line-height: 26px;
+  line-height: 18px;
   font-weight: 600;
   transition: all 500ms ease;
 }
@@ -9082,7 +9084,7 @@ div#mCSB_1_container{
 
 .pricing-section{
   position: relative;
-  padding: 113px 0px 70px 0px;
+  padding: 0px 0px 70px 0px;
 }
 
 .pricing-section .pricing-inner{
