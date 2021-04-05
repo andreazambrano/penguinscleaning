@@ -2629,8 +2629,8 @@ div#mCSB_1_container{
   position: absolute;
   left: 0px;
   bottom: 80px;
-  width: 130px;
-  height: 130px;
+  width: 150px;
+  height: 150px;
   text-align: center;
   border-radius: 50%;
   padding: 36px 15px;
@@ -13006,4 +13006,23 @@ div#mCSB_1_container{
 
 .main-header.style-five .page-header-mobile-info-toggle{
   top: 10px;
+}
+
+.whatsapp {
+  position:fixed;
+  width:45px;
+  height:45px;
+  bottom:20px;
+  left:20px;
+  background-color:#25d366;
+  color:#fff;
+  border-radius:50%;
+  text-align:center;
+  font-size:45px;
+  z-index:100;
+  bottom: 60px;
+}
+
+.whatsapp-icon {
+  margin-top:15px;
 }
